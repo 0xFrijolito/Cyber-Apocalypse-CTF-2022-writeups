@@ -289,8 +289,7 @@ Si todo lo anterior está correcto significa que se crearía un archivo llamado 
 ![alt img](./img/Screenshot%202022-05-19%20191920.png)
 
 
-Y efectivamente el archivo se sube correctamente aunque no se un archivo `.tar.gz` con esto empiezo a jugar con los nombres de los archivos y guardar el archivo en en la carpeta.
-
+Y efectivamente el archivo se sube correctamente aunque no se un archivo `.tar.gz` con esto empiezo a jugar con los nombres de los archivos y guardar estos en distintos lugares.
 
 Acá es donde me estanco unos minutos pensando. Como puedo escalar esto a un RCE o LFI, bueno sabiendo que si el compre del archivo es el mismo que uno ya existente el archivo se sobrescribiría pensé tal vez sobrescribir algun archivo `.py`, pero el problema de esto es que el servidor no tiene el modo `debug` activado entonces aunque cambie los archivos `.py` el código original seguirá en la memoria del intérprete.
 
