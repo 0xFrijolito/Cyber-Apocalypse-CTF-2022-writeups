@@ -1,6 +1,6 @@
 ## Summary
 
-Acnologia Portal es uno de los retos de difucultad media de el CTF. Fue la primera que intente ya que empece algo tarde por la hora de inicio y nadie aun la habia hecho asi que pense que podria ser la first blood (obviamente no lo fui 😢)
+Acnologia Portal es uno de los retos de dificultad media de el CTF. Fue la primera que intente ya que empece algo tarde por la hora de inicio y nadie aun la habia hecho asi que pense que podria ser la first blood (obviamente no lo fui 😢)
 
 La descripcion de la maquina dice:
 
