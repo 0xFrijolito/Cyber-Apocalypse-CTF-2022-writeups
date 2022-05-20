@@ -361,7 +361,7 @@ El problema de esto es que ahora tenemos que registrarnos a la página sin ir a 
 ## Exploit 😎🧨
 
 
-Para el exploit necesitamos 2 cosas
+Para el exploit necesitamos 3 cosas
 - Un payload para leer un archivo
 - Un xxs que nos deje subir un archivo como admin
 - Un script que use la api para enviar el xxs
